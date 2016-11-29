@@ -1,1 +1,1 @@
-include ':app', ':volley', 'arrowapp', ':ArrowHC'
+include 'arrowapp'
