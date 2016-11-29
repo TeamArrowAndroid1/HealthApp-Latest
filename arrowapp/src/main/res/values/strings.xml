@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arrowhc</string>
+    <array name="department">
+
+        <item>Common</item>
+        <item>Cardiology</item>
+        <item>Genetics</item>
+        <item>Orthopedic</item>
+        <item>Emergency</item>
+
+
+    </array>
+</resources>
